@@ -1,7 +1,10 @@
 body{
-	background-color: #f0f1f2;
+	background-image: url("pexels-photo-102720.jpeg");
 }
 
+.container {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
 
 .jumbotron {
 	margin: 0 20px;
@@ -11,3 +14,4 @@ body{
 	background-color: #657690;
 	border-radius: 25px;
 }
+
